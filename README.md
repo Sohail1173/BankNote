@@ -1,1 +1,3 @@
 # BankNoteAuthentication
+Abstract
+This project is based on machine learning and deep learning, dataset is indeed used for binary classification, where the goal is to predict whether banknotes are genuine or counterfeit based on the provided features. The "Class" column in the dataset indicates the label for each data point and specifies whether a banknote is genuine (class 0) or counterfeit (class 1). This type of classification task involves training a model to learn patterns and relationships in the features so that it can accurately classify new banknotes as genuine or counterfeitto clBankNote Authentication" refers to the process of verifying the authenticity of banknotes or currency notes to determine whether they are genuine or counterfeit.
